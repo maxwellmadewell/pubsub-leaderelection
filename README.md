@@ -1,4 +1,4 @@
-# Distributed Systems Principles - Assignment 3
+# Distributed Systems Principles
 
 ## Pub/Sub MQ Implementation w/ Load Balancing/Broker Replication
 ### Max Coursey 
